@@ -257,7 +257,7 @@ h3,
 .ap_about_wrapper {
     width: 100%;
     float: left;
-    padding: 60px 0px 80px;
+    padding: 120px 0px 90px;
 }
 .ap_heading {
     width: 100%;
@@ -322,7 +322,7 @@ h3,
     background-image: url(../images/arctic.jpg);
     background-size: cover;
     position: relative;
-    padding: 80px 0px;
+    padding: 120px 0 90px 0;
     background-attachment: fixed;
     position: relative;
     z-index: 1;
@@ -392,7 +392,7 @@ h3,
 .ap_screen_wrapper {
     width: 100%;
     float: left;
-    padding: 80px 0px 70px;
+    padding: 120px 0 90px 0;
     position: relative;
 }
 .ap_screen_wrapper .ap_heading {
@@ -436,7 +436,7 @@ h3,
     float: left;
     background-image: url(../images/arctic_2.jpg);
     background-size: cover;
-    padding: 80px 0px 135px;
+    padding: 120px 0 90px 0;
     position: relative;
     background-attachment: fixed;
     position: relative;
